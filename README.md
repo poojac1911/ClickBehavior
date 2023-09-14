@@ -4,6 +4,6 @@ The Lemonade app is a simple Compose app that allows the user to make digital le
 
 The concepts covered in this app are:
 
--Simple UI layout in Compose
--Add clickable behavior to a composable
+-Simple UI layout in Compose<br>
+-Add clickable behavior to a composable<br>
 -Use remember and mutableStateOf to keep track of relevant state in the app
